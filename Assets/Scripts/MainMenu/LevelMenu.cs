@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class MainMenuHandler : MonoBehaviour
+public class LevelMenu : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
