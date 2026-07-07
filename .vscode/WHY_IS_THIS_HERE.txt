@@ -1,0 +1,2 @@
+Q: Why is the .vscode folder commited?
+A: It has all the Unity External Editor Setup Configuration so its necessary to be pushed
